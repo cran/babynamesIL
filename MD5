@@ -1,0 +1,13 @@
+03a46a0052621f1b9d2371e6fc372ab0 *DESCRIPTION
+2a207a9258970c0ae6ab72a3b0c2d1e4 *NAMESPACE
+96964d630a1ac666a04ecdb25662f1b8 *NEWS.md
+60ff063d7d15419e14744f5ad19ce839 *R/data.R
+feaa0bee6dba5ef7094fad8f79d74ab2 *README.md
+932af94621f99eb2e20f2e90b8f9fb71 *data/babynamesIL.rda
+44c061f7bc3a853d729040966ebb3bcc *data/babynamesIL_totals.rda
+fb9b37f9c33917d12a999b29d73ddc6d *man/babynamesIL.Rd
+474b95ea16f0141cfe52d4200c414113 *man/babynamesIL_totals.Rd
+50dfa2c338f36df5660cf15443121f6b *man/figures/README-example-traj-1.png
+35a43f20e463d107302b47b2cdfc1c69 *tests/testthat.R
+87167a5d0e7415f4864c9c682c98e10d *tests/testthat/_snaps/data.md
+d49bc1f2f28c4057bb4564ff51e8fbf9 *tests/testthat/test-data.R
